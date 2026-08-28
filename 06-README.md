@@ -55,5 +55,5 @@ The project identified important trends and patterns within the sales data, incl
 
 **Emran Kamal**
 
-Aspiring Data Analyst | Excel • Power Query • Power BI
+Junior Data Analyst | Excel • Power Query • Data Analysis
 
